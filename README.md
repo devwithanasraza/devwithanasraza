@@ -80,11 +80,6 @@
 
 <hr style="border: 1px solid #30363d; background-color: #30363d; height: 1px; margin: 20px 0;" />
 
-<!-- ================= TECH STACK ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=100&section=header&text=%E2%9A%A1%20Tech%20Stack%20%26%20Engineering%20Arsenal&fontSize=26&fontColor=D4AF37" width="100%" alt="Tech Stack Header" />
-</div>
-
 <!-- Skill Icons Strip -->
 <p align="center">
   <a href="#">
@@ -274,34 +269,35 @@
 <!-- ================= GITHUB STATS & ANALYTICS ================= -->
 <div align="center">
   <h2 align="center">📈 GitHub Analytics &amp; Code Activity</h2>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=90&section=header&text=GitHub%20Analytics%20%26%20Code%20Activity&fontSize=24&fontColor=D4AF37" width="100%" alt="GitHub Analytics Header" />
-
   <p align="center">
     <a href="https://github.com/devwithanasraza">
       <img src="https://img.shields.io/badge/GitHub%20Analytics-devwithanasraza-D4AF37?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub Analytics Badge" />
     </a>
   </p>
 
-  <!-- GitHub Readme Stats & Top Languages Side-by-Side (Verified Working Endpoints) -->
-  <p align="center">
-    <img src="https://github-stats-alpha.vercel.app/api?username=devwithanasraza&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8DFD8" alt="GitHub Stats" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwithanasraza&theme=tokyonight" alt="Top Languages by Repo" width="49%" />
-  </p>
-
-  <!-- GitHub Streak Stats (Active Fire Icon & Contributions) -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=devwithanasraza&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" width="98%" />
-  </p>
-
-  <!-- Language by Commit & Profile Details -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devwithanasraza&theme=tokyonight" alt="Most Committed Language" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devwithanasraza&theme=tokyonight" alt="Profile Details" width="49%" />
-  </p>
+  <!-- GitHub Analytics Cards (Properly Centered & Matching Dark Theme) -->
+  <table align="center" border="0" cellpadding="8" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle" style="border: none; background: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devwithanasraza&theme=tokyonight" alt="GitHub Stats" width="370" />
+      </td>
+      <td align="center" valign="middle" style="border: none; background: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwithanasraza&theme=tokyonight" alt="Top Languages by Repo" width="370" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" style="border: none; background: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devwithanasraza&theme=tokyonight" alt="Most Committed Language" width="370" />
+      </td>
+      <td align="center" valign="middle" style="border: none; background: none;">
+        <img src="https://streak-stats.demolab.com/?user=devwithanasraza&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=f1e05a&currStreakLabel=70a5fd" alt="GitHub Streak" width="370" />
+      </td>
+    </tr>
+  </table>
 
   <!-- Live Dynamic Activity Graph -->
   <p align="center">
-    <img src="https://activity-graph.vercel.app/graph?username=devwithanasraza&theme=tokyo-night&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+    <img src="https://activity-graph.vercel.app/graph?username=devwithanasraza&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" width="98%" alt="GitHub Activity Graph" />
   </p>
 </div>
 
