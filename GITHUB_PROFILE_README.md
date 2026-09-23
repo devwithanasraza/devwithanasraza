@@ -1,18 +1,3 @@
-<!-- TOP INTERACTIVE SVG WIDGETS -->
-<p align="center">
-  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
-</p>
-
-<table align="center" border="0">
-  <tr>
-    <td valign="top" align="center"><img src="terminal-card.svg" alt="ASCII Portrait" width="440"/></td>
-    <td valign="top" align="center"><img src="info-card.svg" alt="Info Card" width="440"/></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- HERO SECTION -->
 <div align="center">
   <!-- Dynamic Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=190&section=header&text=Anas%20Raza&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20React.js%20%E2%80%A2%20WordPress&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
@@ -37,6 +22,9 @@
     </a>
     <a href="https://wa.me/918279626114">
       <img src="https://img.shields.io/badge/WhatsApp-+91%208279626114-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="YOUR_PORTFOLIO_LIVE_URL">
+      <img src="https://img.shields.io/badge/Portfolio-Live%20Website-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
     </a>
   </p>
 
@@ -72,8 +60,8 @@
   </td>
 
   <td width="45%" align="center" valign="middle" style="border: none; background: none;">
-    <!-- Premium Cinematic Coding Animation -->
-    <img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" alt="Cinematic Coding Animation" />
+    <!-- 100% Reliable GitHub Native Hosted Coding GIF -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Engineering Animation" />
   </td>
 </tr>
 </table>
