@@ -72,8 +72,8 @@
   </td>
 
   <td width="45%" align="center" valign="middle" style="border: none; background: none;">
-    <!-- Premium Cinematic Coding Animation -->
-    <img src="./assets/Create_a_6second_premium_cinematic_looping_a.gif" width="100%" alt="Cinematic Coding Animation" />
+    <!-- Interactive Terminal Typing Coding Animation -->
+    <img src="about-terminal.svg" width="100%" alt="Terminal Typing Coding Animation" />
   </td>
 </tr>
 </table>
@@ -273,33 +273,35 @@
 
 <!-- ================= GITHUB STATS & ANALYTICS ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=90&section=header&text=%F0%9F%93%88%20GitHub%20Analytics%20%26%20Code%20Activity&fontSize=24&fontColor=D4AF37" width="100%" alt="GitHub Analytics" />
+  <h2 align="center">📈 GitHub Analytics &amp; Code Activity</h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=161b22&height=90&section=header&text=GitHub%20Analytics%20%26%20Code%20Activity&fontSize=24&fontColor=D4AF37" width="100%" alt="GitHub Analytics Header" />
 
-  <!-- Language Distribution Summary Cards -->
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwithanasraza&theme=tokyonight" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devwithanasraza&theme=tokyonight" alt="Most Committed Language" />
+    <a href="https://github.com/devwithanasraza">
+      <img src="https://img.shields.io/badge/GitHub%20Analytics-devwithanasraza-D4AF37?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub Analytics Badge" />
+    </a>
   </p>
 
-  <!-- GitHub Readme Stats & Top Languages Side-by-Side (Fast, Reliable Mirrored Cluster) -->
+  <!-- GitHub Readme Stats & Top Languages Side-by-Side (Verified Working Endpoints) -->
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devwithanasraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8DFD8" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devwithanasraza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E8DFD8" alt="Top Languages" width="45%" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=devwithanasraza&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8DFD8" alt="GitHub Stats" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwithanasraza&theme=tokyonight" alt="Top Languages by Repo" width="49%" />
   </p>
 
-  <!-- GitHub Streak Stats (Stable Demolab CDN) -->
+  <!-- GitHub Streak Stats (Active Fire Icon & Contributions) -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=devwithanasraza&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" width="96%" />
+    <img src="https://streak-stats.demolab.com/?user=devwithanasraza&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" width="98%" />
+  </p>
+
+  <!-- Language by Commit & Profile Details -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devwithanasraza&theme=tokyonight" alt="Most Committed Language" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devwithanasraza&theme=tokyonight" alt="Profile Details" width="49%" />
   </p>
 
   <!-- Live Dynamic Activity Graph -->
   <p align="center">
-    <img src="https://activity-graph.vercel.app/graph?username=devwithanasraza&theme=tokyo-night&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&hide_border=true" width="96%" alt="GitHub Activity Graph" />
-  </p>
-
-  <!-- Profile Details Summary Card -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devwithanasraza&theme=tokyonight" alt="Profile Details" width="96%" />
+    <img src="https://activity-graph.vercel.app/graph?username=devwithanasraza&theme=tokyo-night&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&hide_border=true" width="98%" alt="GitHub Activity Graph" />
   </p>
 </div>
 

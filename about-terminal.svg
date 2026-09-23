@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="440" viewBox="0 0 520 440" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+<defs>
+  <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <linearGradient id="termBorder" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#30363d" stop-opacity="0.8"/>
+    <stop offset="50%" stop-color="#D4AF37" stop-opacity="0.4"/>
+    <stop offset="100%" stop-color="#30363d" stop-opacity="0.8"/>
+  </linearGradient>
+  <clipPath id="cp0">
+    <rect x="52" y="46" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.025;0.060;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp1">
+    <rect x="52" y="64" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.053;0.088;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp3">
+    <rect x="52" y="100" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.080;0.115;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp4">
+    <rect x="52" y="118" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.107;0.143;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp5">
+    <rect x="52" y="136" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.135;0.170;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp6">
+    <rect x="52" y="154" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.163;0.198;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp7">
+    <rect x="52" y="172" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.190;0.225;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp8">
+    <rect x="52" y="190" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.217;0.253;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp9">
+    <rect x="52" y="208" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.245;0.280;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp11">
+    <rect x="52" y="244" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.273;0.307;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp12">
+    <rect x="52" y="262" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.300;0.335;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp13">
+    <rect x="52" y="280" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.328;0.363;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp14">
+    <rect x="52" y="298" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.355;0.390;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp16">
+    <rect x="52" y="334" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.383;0.418;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp17">
+    <rect x="52" y="352" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.410;0.445;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp18">
+    <rect x="52" y="370" height="18" width="0">
+      <animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.438;0.473;0.940;1" dur="8.0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+</defs>
+<rect width="520" height="440" rx="10" fill="url(#bgGrad)"/>
+<rect x="0.5" y="0.5" width="519" height="439" rx="10" fill="none" stroke="url(#termBorder)" stroke-width="1.2"/>
+<line x1="0" y1="32" x2="520" y2="32" stroke="#30363d" stroke-width="1"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f56"/>
+<circle cx="34" cy="16" r="5" fill="#ffbd2e"/>
+<circle cx="50" cy="16" r="5" fill="#27c93f"/>
+<text x="260.0" y="20" fill="#8b949e" font-size="11.5" text-anchor="middle">anas@engineer: ~/AnasRaza.php</text>
+<text x="20" y="58" fill="#484f58" font-size="11.5" font-weight="500">01</text>
+<g clip-path="url(#cp0)">
+  <text x="52" y="58" font-size="11.5"><tspan fill="#ff7b72">&lt;?php</tspan></text>
+</g>
+<rect y="48" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;86;86" keyTimes="0;0.025;0.060;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.025;0.060;0.080;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="76" fill="#484f58" font-size="11.5" font-weight="500">02</text>
+<g clip-path="url(#cp1)">
+  <text x="52" y="76" font-size="11.5"><tspan fill="#ff7b72">namespace </tspan><tspan fill="#79c0ff">Developer</tspan><tspan fill="#c9d1d9">;</tspan></text>
+</g>
+<rect y="66" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;190;190" keyTimes="0;0.053;0.088;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.053;0.088;0.108;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="94" fill="#484f58" font-size="11.5" font-weight="500">03</text>
+<text x="20" y="112" fill="#484f58" font-size="11.5" font-weight="500">04</text>
+<g clip-path="url(#cp3)">
+  <text x="52" y="112" font-size="11.5"><tspan fill="#ff7b72">class </tspan><tspan fill="#ffa657">AnasRaza </tspan><tspan fill="#ff7b72">extends </tspan><tspan fill="#79c0ff">SoftwareEngineer </tspan><tspan fill="#c9d1d9">{</tspan></text>
+</g>
+<rect y="102" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;335;335" keyTimes="0;0.080;0.115;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.080;0.115;0.135;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="130" fill="#484f58" font-size="11.5" font-weight="500">05</text>
+<g clip-path="url(#cp4)">
+  <text x="52" y="130" font-size="11.5"><tspan fill="#ff7b72">    public string </tspan><tspan fill="#79c0ff">$role </tspan><tspan fill="#ff7b72">= </tspan><tspan fill="#a5d6ff">&quot;Full Stack Developer&quot;</tspan><tspan fill="#c9d1d9">;</tspan></text>
+</g>
+<rect y="120" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;390;390" keyTimes="0;0.107;0.143;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.107;0.143;0.163;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="148" fill="#484f58" font-size="11.5" font-weight="500">06</text>
+<g clip-path="url(#cp5)">
+  <text x="52" y="148" font-size="11.5"><tspan fill="#ff7b72">    public string </tspan><tspan fill="#79c0ff">$company </tspan><tspan fill="#ff7b72">= </tspan><tspan fill="#a5d6ff">&quot;Bissbay Solutions&quot;</tspan><tspan fill="#c9d1d9">;</tspan></text>
+</g>
+<rect y="138" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;390;390" keyTimes="0;0.135;0.170;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.135;0.170;0.190;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="166" fill="#484f58" font-size="11.5" font-weight="500">07</text>
+<g clip-path="url(#cp6)">
+  <text x="52" y="166" font-size="11.5"><tspan fill="#ff7b72">    public array </tspan><tspan fill="#79c0ff">$stack </tspan><tspan fill="#c9d1d9">= [</tspan></text>
+</g>
+<rect y="156" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;238;238" keyTimes="0;0.163;0.198;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.163;0.198;0.217;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="184" fill="#484f58" font-size="11.5" font-weight="500">08</text>
+<g clip-path="url(#cp7)">
+  <text x="52" y="184" font-size="11.5"><tspan fill="#a5d6ff">        &quot;PHP 8&quot;</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">&quot;MySQL&quot;</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">&quot;React.js&quot;</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">&quot;WordPress&quot;</tspan></text>
+</g>
+<rect y="174" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;390;390" keyTimes="0;0.190;0.225;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.190;0.225;0.245;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="202" fill="#484f58" font-size="11.5" font-weight="500">09</text>
+<g clip-path="url(#cp8)">
+  <text x="52" y="202" font-size="11.5"><tspan fill="#c9d1d9">    ];</tspan></text>
+</g>
+<rect y="192" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;93;93" keyTimes="0;0.217;0.253;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.217;0.253;0.273;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="220" fill="#484f58" font-size="11.5" font-weight="500">10</text>
+<g clip-path="url(#cp9)">
+  <text x="52" y="220" font-size="11.5"><tspan fill="#ff7b72">    public string </tspan><tspan fill="#79c0ff">$education </tspan><tspan fill="#ff7b72">= </tspan><tspan fill="#a5d6ff">&quot;MCA, COER University&quot;</tspan><tspan fill="#c9d1d9">;</tspan></text>
+</g>
+<rect y="210" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;425;425" keyTimes="0;0.245;0.280;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.245;0.280;0.300;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="238" fill="#484f58" font-size="11.5" font-weight="500">11</text>
+<text x="20" y="256" fill="#484f58" font-size="11.5" font-weight="500">12</text>
+<g clip-path="url(#cp11)">
+  <text x="52" y="256" font-size="11.5"><tspan fill="#ff7b72">    public function </tspan><tspan fill="#d2a8ff">buildSystem</tspan><tspan fill="#c9d1d9">(): </tspan><tspan fill="#ff7b72">string </tspan><tspan fill="#c9d1d9">{</tspan></text>
+</g>
+<rect y="246" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;349;349" keyTimes="0;0.273;0.307;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.273;0.307;0.328;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="274" fill="#484f58" font-size="11.5" font-weight="500">13</text>
+<g clip-path="url(#cp12)">
+  <text x="52" y="274" font-size="11.5"><tspan fill="#ff7b72">        return </tspan><tspan fill="#7ee787">&quot;High-Scale ERP &amp; Web Solutions 🚀&quot;</tspan><tspan fill="#c9d1d9">;</tspan></text>
+</g>
+<rect y="264" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;397;397" keyTimes="0;0.300;0.335;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.300;0.335;0.355;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="292" fill="#484f58" font-size="11.5" font-weight="500">14</text>
+<g clip-path="url(#cp13)">
+  <text x="52" y="292" font-size="11.5"><tspan fill="#c9d1d9">    }</tspan></text>
+</g>
+<rect y="282" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;86;86" keyTimes="0;0.328;0.363;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.328;0.363;0.383;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="310" fill="#484f58" font-size="11.5" font-weight="500">15</text>
+<g clip-path="url(#cp14)">
+  <text x="52" y="310" font-size="11.5"><tspan fill="#c9d1d9">}</tspan></text>
+</g>
+<rect y="300" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;59;59" keyTimes="0;0.355;0.390;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.355;0.390;0.410;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="328" fill="#484f58" font-size="11.5" font-weight="500">16</text>
+<text x="20" y="346" fill="#484f58" font-size="11.5" font-weight="500">17</text>
+<g clip-path="url(#cp16)">
+  <text x="52" y="346" font-size="11.5"><tspan fill="#8b949e">// Execution Output:</tspan></text>
+</g>
+<rect y="336" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;190;190" keyTimes="0;0.383;0.418;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.383;0.418;0.438;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="364" fill="#484f58" font-size="11.5" font-weight="500">18</text>
+<g clip-path="url(#cp17)">
+  <text x="52" y="364" font-size="11.5"><tspan fill="#79c0ff">$anas </tspan><tspan fill="#ff7b72">= </tspan><tspan fill="#ff7b72">new </tspan><tspan fill="#ffa657">AnasRaza</tspan><tspan fill="#c9d1d9">();</tspan></text>
+</g>
+<rect y="354" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;211;211" keyTimes="0;0.410;0.445;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.410;0.445;0.465;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<text x="20" y="382" fill="#484f58" font-size="11.5" font-weight="500">19</text>
+<g clip-path="url(#cp18)">
+  <text x="52" y="382" font-size="11.5"><tspan fill="#ff7b72">echo </tspan><tspan fill="#79c0ff">$anas</tspan><tspan fill="#c9d1d9">-&gt;</tspan><tspan fill="#d2a8ff">buildSystem</tspan><tspan fill="#c9d1d9">();</tspan></text>
+</g>
+<rect y="372" width="6" height="12" fill="#D4AF37" opacity="0">
+  <animate attributeName="x" values="52;52;231;231" keyTimes="0;0.438;0.473;1" dur="8.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.9;0.9;0;0" keyTimes="0;0.438;0.473;0.493;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+<line x1="12" y1="392" x2="508" y2="392" stroke="#30363d" stroke-dasharray="3,3"/>
+<g opacity="0">
+  <text x="20" y="408" font-size="11.5" font-weight="700">
+    <tspan fill="#3fb950">❯ </tspan>
+    <tspan fill="#D4AF37">High-Scale ERP &amp; Web Solutions 🚀</tspan>
+  </text>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.478;0.518;0.95;1" dur="8.0s" repeatCount="indefinite"/>
+</g>
+<rect x="261" y="398" width="7" height="13" fill="#3fb950" opacity="0">
+  <animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.478;0.528;0.578;0.628;0.95;1" dur="8.0s" repeatCount="indefinite"/>
+</rect>
+</svg>
